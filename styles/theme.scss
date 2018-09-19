@@ -1,0 +1,14 @@
+@import "bootstrap/bootstrap";
+@import 'variables';
+@import 'fonts';
+@import 'global';
+@import 'nav';
+@import 'header';
+
+// SECTIONS
+@import 'sections/change';
+@import 'sections/story';
+@import 'sections/who-is-it-for';
+@import 'sections/what-experience';
+@import 'sections/what-learn';
+@import 'sections/what-get';
