@@ -20,6 +20,10 @@ body {
   text-shadow: rgba(0, 0, 0, .01) 0 0 1px;
   font-size: 21px;
   line-height: 1.48em;
+  h1,h2,h3,h4,h5,h6{
+    font-family: $headings;
+    font-weight: normal;
+  }
   * {
     box-sizing: border-box;
     &::-ms-clear {
@@ -28,6 +32,9 @@ body {
     &::-ms-reveal {
       display: none !important;
     }
+  }
+  :focus,:active {
+    outline: none;
   }
 }
 
@@ -43,30 +50,11 @@ body {
   }
 }
 
-hgroup {
-  > strong {
-    display: block;
-    font-size: 17px;
-    line-height: 1em;
-    font-weight: bold;
-    letter-spacing: 3.5px;
-    margin-bottom: 10px;
-  }
-  h2 {
-    font: 49px/1.3em $serif;
-  }
-  p {
-    font-size: 25px;
-    line-height: 1.42em;
-    letter-spacing: .5px;
-    margin-bottom: 30px;
-    &:last-child {
-      margin-bottom: 0;
-    }
-  }
-}
 
 
 body {
   padding-bottom: 500px;
+  .bgg-greenblue {
+    background: linear-gradient($green, $blue);
+  }
 }

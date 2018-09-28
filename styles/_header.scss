@@ -2,7 +2,7 @@ header {
   height: 1515px;
   max-height: 100vh;
   position: relative;
-  .header-image {
+  .background-texture {
     position: absolute;
     top: 0;
     left: 0;
@@ -10,6 +10,8 @@ header {
     bottom: 0;
     background-size: cover;
     background-position: center;
+    background-image: url('../media/scatter.png');
+    background-attachment: fixed;
     &-cover {
       position: absolute;
       top: 0;
@@ -20,6 +22,34 @@ header {
       mix-blend-mode: screen;
     }
   }
+
+  nav {
+    z-index: 2;
+  }
+  .text-block {
+    background: linear-gradient(#673AB7,#512DA8);
+    max-width: 600px;
+
+    margin: auto;
+    h1 {
+      padding: 80px 24px 24px 24px;
+      color: $light;
+      font-weight: 400;
+    }
+    p {
+      color: $light;
+      padding: 0 24px 80px 24px;
+    }
+    @media only screen and (max-width: 768px) {
+      h1 {
+        font-size: 32px;
+      }
+      p {
+        font-size: 14px;
+
+      }
+    }
+  }
   .header-text {
     position: absolute;
     bottom: 0;
@@ -27,11 +57,20 @@ header {
     width: 100%;
     padding-bottom: 160px;
   }
+  .header-img {
+    max-width: 400px;
+    height: auto;
+    display: flex;
+    margin: auto;
+
+  }
   h1 {
-    color: #cff7ef;
-    font: 60px/1.3em $serif;
-    max-width: 672px;
+    color: #000;
+    font-family: $headings;
+    font-size: 40px;
+    text-transform: uppercase;
     margin-bottom: 20px;
+    margin-top: 200px;
   }
   p {
     max-width: 556px;

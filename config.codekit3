@@ -167,92 +167,37 @@
 		"oAP": "\/index.php",
 		"oF": 0
 		},
-	"\/media\/arrow_out.png": {
+	"\/media\/Purple-Turquoise.png": {
 		"ft": 32768,
-		"iS": 210,
+		"iS": 103096,
 		"oA": 0,
-		"oAP": "\/media\/arrow_out.png",
+		"oAP": "\/media\/Purple-Turquoise.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/media\/header.png": {
+	"\/media\/scatter.png": {
 		"ft": 32768,
-		"iS": 2428623,
+		"iS": 169233,
 		"oA": 0,
-		"oAP": "\/media\/header.png",
+		"oAP": "\/media\/scatter.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/media\/logo_berkley_sm.png": {
-		"ft": 32768,
-		"iS": 3685,
+	"\/media\/ygOptim.jpg": {
+		"ft": 16384,
+		"iS": 429959,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/media\/logo_berkley_sm.png",
+		"oAP": "\/media\/ygOptim.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/media\/logo_explab.png": {
-		"ft": 32768,
-		"iS": 1166,
-		"oA": 0,
-		"oAP": "\/media\/logo_explab.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/media\/story.png": {
-		"ft": 32768,
-		"iS": 1065461,
-		"oA": 0,
-		"oAP": "\/media\/story.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/media\/story_2.png": {
-		"ft": 32768,
-		"iS": 1091392,
-		"oA": 0,
-		"oAP": "\/media\/story_2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/media\/video_1.png": {
-		"ft": 32768,
-		"iS": 353543,
-		"oA": 0,
-		"oAP": "\/media\/video_1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/media\/what_will_you_experience.png": {
-		"ft": 32768,
-		"iS": 408257,
-		"oA": 0,
-		"oAP": "\/media\/what_will_you_experience.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/page-templates\/front-page.php": {
@@ -261,6 +206,34 @@
 		"oA": 0,
 		"oAP": "\/page-templates\/front-page.php",
 		"oF": 0
+		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/scripts\/min\/scripts-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/scripts\/min\/min\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/scripts\/scripts.js": {
 		"ft": 64,
@@ -1488,6 +1461,130 @@
 		"oAP": "\/styles\/fonts\/FoundersGroteskText-Regular.woff",
 		"oF": 0
 		},
+	"\/styles\/fonts\/Montserrat-Bold.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Montserrat-Bold.eot",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Montserrat-Bold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/styles\/fonts\/Montserrat-Bold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/styles\/fonts\/Montserrat-Bold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Montserrat-Bold.ttf",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Montserrat-Bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Montserrat-Bold.woff",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Montserrat-Regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Montserrat-Regular.eot",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Montserrat-Regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/styles\/fonts\/Montserrat-Regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/styles\/fonts\/Montserrat-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Montserrat-Regular.ttf",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Montserrat-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Montserrat-Regular.woff",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Roboto-Light.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Roboto-Light.eot",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Roboto-Light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/styles\/fonts\/Roboto-Light.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/styles\/fonts\/Roboto-Light.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Roboto-Light.ttf",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Roboto-Light.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Roboto-Light.woff",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Roboto-Regular.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Roboto-Regular.eot",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Roboto-Regular.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/styles\/fonts\/Roboto-Regular.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/styles\/fonts\/Roboto-Regular.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Roboto-Regular.ttf",
+		"oF": 0
+		},
+	"\/styles\/fonts\/Roboto-Regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/styles\/fonts\/Roboto-Regular.woff",
+		"oF": 0
+		},
 	"\/styles\/fonts\/SuisseWorks-Book.eot": {
 		"cB": 0,
 		"ft": 8192,
@@ -1526,7 +1623,7 @@
 		"oAP": "\/styles\/fonts\/SuisseWorks-Book.woff",
 		"oF": 0
 		},
-	"\/styles\/sections\/_change.scss": {
+	"\/styles\/sections\/_example.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1534,72 +1631,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/styles\/css\/_change.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/styles\/sections\/_story.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/styles\/css\/_story.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/styles\/sections\/_what-experience.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/styles\/css\/_what-experience.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/styles\/sections\/_what-get.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/styles\/css\/_what-get.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/styles\/sections\/_what-learn.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/styles\/css\/_what-learn.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/styles\/sections\/_who-is-it-for.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/styles\/css\/_who-is-it-for.css",
+		"oAP": "\/styles\/css\/_example.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1633,6 +1665,26 @@
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/vendors\/hamburgers\/hamburgers.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/vendors\/hamburgers\/hamburgers.min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/vendors\/hover\/hover-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/vendors\/hover\/hover-min-min.css",
+		"oF": 0,
+		"oS": 3
 		}
 	},
 "hooks": [
@@ -1641,7 +1693,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 555892235,
-	"displayValue": "explab",
+	"displayValue": "qweb",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
 	"iconImageWasSetByUser": 0
@@ -3039,7 +3091,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/berkleylabs.bkt",
+	"externalServerAddress": "http:\/\/localhost:8888\/qweb",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",

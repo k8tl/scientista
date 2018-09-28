@@ -12,11 +12,14 @@ function theme_scripts_and_styles() {
 	/* CSS */
 	wp_register_style( 'theme-style', get_bloginfo('stylesheet_directory').'/styles/theme.css', array(), $cache_buster );
 	wp_enqueue_style('theme-style');
+	wp_enqueue_style('hamburgers', get_bloginfo('stylesheet_directory').'/vendors/hamburgers/hamburgers.min.css');
+	wp_enqueue_style('hamburgers', get_bloginfo('stylesheet_directory').'/vendors/hover/hover-min.css');
+
 
 	/* JAVASCRIPT */
-	wp_register_script('theme-js', $javascript_directory. 'application/'. 'scripts.min.js', array( 'jquery' ), $cache_buster );
 
-	wp_enqueue_script('theme-js');
+	wp_enqueue_script('scripts', get_bloginfo('stylesheet_directory').'/scripts/min/scripts-min.js');
+
 	wp_localize_script('theme-js', 'local_data', array(
 		'ajax_url' =>	admin_url( 'admin-ajax.php' )
 	));
