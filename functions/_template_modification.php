@@ -10,7 +10,7 @@ function bb_set_page_templates( $page_template ) {
 		$new_template = 'front-page.php';
 
 	if( is_home() )
-		$new_template = 'post-archive.php';
+		$new_template = 'front-page.php';
 
 	if( is_category() )
 		$new_template = 'post-category.php';

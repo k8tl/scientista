@@ -8,7 +8,6 @@ get_header();
   <div class="row h-100">
     <div class="col-sm-12">
       <div class="text-block"><h1>Welcome To QWeb</h1>
-        <a href="#" class="hvr-grow">test</a>
       <p>This theme is a starting point for wordpress theme development. It is built with Bootstrap and Wordpress. In order to work with this theme it is highly recommended that you understand how to use and compile SASS.</p>
       </div>
     </div>

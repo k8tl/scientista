@@ -19,10 +19,14 @@ function theme_scripts_and_styles() {
 	/* JAVASCRIPT */
 
 	wp_enqueue_script('scripts', get_bloginfo('stylesheet_directory').'/scripts/min/scripts-min.js');
+	/* JAVASCRIPT */
+	wp_register_script('theme-js', $javascript_directory. 'application/'. 'scripts.min.js', array( 'jquery' ), $cache_buster );
 
+	wp_enqueue_script('theme-js');
 	wp_localize_script('theme-js', 'local_data', array(
 		'ajax_url' =>	admin_url( 'admin-ajax.php' )
 	));
+
 
 	/*
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
