@@ -1,6 +1,6 @@
 <?php
 global $template_settings, $post;
-bb_add_body_classes('front-page');
+bb_add_body_classes('front-page full-height');
 the_post();
 get_header();
 ?>

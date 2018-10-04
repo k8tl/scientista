@@ -20,25 +20,14 @@ function bb_set_page_templates( $page_template ) {
 
 	if( is_single() && get_post_type() === 'post' )
 		$new_template = 'post-single.php';
-
-	if( is_page('wholesale') )
-		$new_template = 'page-wholesale.php';
-
-	if( is_page('whats-inside') )
-		$new_template = 'page-whatsinside.php';
-
-	if( is_page('our-story') )
-		$new_template = 'page-our-story.php';
-
-	if( is_page('store-locator') )
-		$new_template = 'page-store-locator.php';
-
+	if( is_page('team') )
+		$new_template = 'page-team.php';
 	if( is_page('contact') )
 		$new_template = 'page-contact.php';
-
-	if( is_page('faq') )
-		$new_template = 'page-faq.php';
-
+	if( is_page('about-us') )
+		$new_template = 'page-about-us.php';
+	if( is_page('portfolio') )
+		$new_template = 'page-portfolio.php';		
 	if( is_search() )
 		$new_template = 'page-search-results.php';
 

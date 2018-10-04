@@ -9,7 +9,24 @@ function bb_required_pages() {
 		[
 			'slug' => 'home',
 			'title' => 'Home'
+		],
+		[
+			'slug' => 'about-us',
+			'title' => 'About Us'
+		],
+		[
+			'slug' => 'team',
+			'title' => 'Team'
+		],
+		[
+			'slug' => 'portfolio',
+			'title' => 'Portfolio'
+		],
+		[
+			'slug' => 'contact',
+			'title' => 'Contact'
 		]
+
 	];
 
 	foreach( $required_pages as $page ) {
