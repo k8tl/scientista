@@ -26,6 +26,10 @@ function bb_required_pages() {
 			'slug' => 'contact',
 			'title' => 'Contact'
 		]
+		[
+			'slug' => 'events',
+			'title' =>'Events'
+		]
 
 	];
 
