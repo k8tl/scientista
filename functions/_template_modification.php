@@ -27,7 +27,9 @@ function bb_set_page_templates( $page_template ) {
 	if( is_page('about-us') )
 		$new_template = 'page-about-us.php';
 	if( is_page('portfolio') )
-		$new_template = 'page-portfolio.php';		
+		$new_template = 'page-portfolio.php';
+	if( is_page('conference') )
+		$new_template = 'conference.php';		
 	if( is_search() )
 		$new_template = 'page-search-results.php';
 
