@@ -29,7 +29,7 @@ function bb_required_pages() {
 		[
 			'slug' => 'events',
 			'title' =>'Events'
-		]
+		],
 		[
 			'slug' => 'conference'
 			'title' => 'Conference'
