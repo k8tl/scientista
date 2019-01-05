@@ -27,7 +27,7 @@ function bb_required_pages() {
 			'title' => 'Contact'
 		]
 		[
-			'slug' => 'gallery',
+			'slug' /=> 'gallery',
 			'title' => 'Gallery'
 		]
 		[
