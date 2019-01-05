@@ -28,6 +28,8 @@ function bb_set_page_templates( $page_template ) {
 		$new_template = 'page-about-us.php';
 	if( is_page('portfolio') )
 		$new_template = 'page-portfolio.php';		
+	if( is_page('gallery' ))
+		$new_template = 'gallery.php';
 	if( is_search() )
 		$new_template = 'page-search-results.php';
 
