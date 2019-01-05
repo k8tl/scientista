@@ -16,7 +16,8 @@ get_header();
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h2>We made this section</h2>
+        <h2>Conference</h2>
+        <p>Details TBA</p>
       </div>
     </div>
     <div class="row">
