@@ -27,10 +27,6 @@ function bb_required_pages() {
 			'title' => 'Contact'
 		]
 		[
-			'slug' => 'gallery',
-			'title' => 'Gallery'
-		]
-		[
 			'slug' => 'events',
 			'title' =>'Events'
 		],
