@@ -6123,10 +6123,8 @@ body {
   .parallax-element {
     transform: none !important; } }
 
-body {
-  padding-bottom: 500px; }
-  body .bgg-greenblue {
-    background: linear-gradient(#00db92, #2855ff); }
+body .bgg-greenblue {
+  background: linear-gradient(#00db92, #2855ff); }
 
 .nav-header {
   font-size: 0;
@@ -6221,5 +6219,16 @@ header {
     line-height: 1.42em;
     letter-spacing: .5px; }
 
+<<<<<<< HEAD
 .imaclass .imanestedclass {
   color: #fff; }
+=======
+.first-section h2 {
+  font-size: 100px;
+  font-weight: 200;
+  text-align: center; }
+
+.first-section h3 {
+  text-align: center;
+  font-size: 32px; }
+>>>>>>> 04f63c92b716b4bfb520535285a28129fa89481a

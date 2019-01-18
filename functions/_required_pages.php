@@ -25,10 +25,18 @@ function bb_required_pages() {
 		[
 			'slug' => 'contact',
 			'title' => 'Contact'
-		]
+		],
+		[
+			'slug' => 'gallery',
+			'title' => 'Gallery'
+		],
 		[
 			'slug' => 'events',
 			'title' =>'Events'
+		],
+		[
+			'slug' => 'conference',
+			'title' => 'Conference'
 		]
 
 	];
