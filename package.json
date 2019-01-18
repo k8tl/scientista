@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/aglover1221/qweb-theme#readme",
   "dependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.10.0"
   }
 }
