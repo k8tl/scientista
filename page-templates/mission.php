@@ -22,6 +22,14 @@ get_header();
         font-weight: normal;
         font-style: normal;
       }
+      /* montserrat-regular - latin */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/montserrat-v12-latin-regular.woff2') format('woff2'),
+    url('../fonts/montserrat-v12-latin-regular.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
     body {background-color: #d2d1ff;
         font-family: 'playlistscript';}
   </style>
@@ -38,9 +46,12 @@ get_header();
       Scientista
     </h1>
   </div>
-  <p>
-    Queen's University Scientista is the first Canadian Chapter of the Scientista Foundation (http://www.scientistafoundation.com/) to be found in 2015. The aim is to promote the advancement of undergraduate and graduate women in science, technology, engineering, mathematics, and medicine (STEMM) on Queen's University’s campus through campus events and campus-related resources as well as by connecting women to a larger network of women in STEMM. Queen's University Scientista strives to provide women in STEMM with the resources and support necessary to help them succeed in their current and future endeavors. We will do this through publication of online content, posting of science resources and opportunities, hosting campus events to build the Scientista community, and engaging with women in STEMM at a national level.
-  </p>
+  <div align = "center">
+    <p style = "font-family: Montserrat;
+    color: black">
+      Queen's University Scientista is the first Canadian Chapter of the Scientista Foundation (http://www.scientistafoundation.com/) to be found in 2015. The aim is to promote the advancement of undergraduate and graduate women in science, technology, engineering, mathematics, and medicine (STEMM) on Queen's University’s campus through campus events and campus-related resources as well as by connecting women to a larger network of women in STEMM. Queen's University Scientista strives to provide women in STEMM with the resources and support necessary to help them succeed in their current and future endeavors. We will do this through publication of online content, posting of science resources and opportunities, hosting campus events to build the Scientista community, and engaging with women in STEMM at a national level.
+    </p>
+  </div>
 </body>
 
 <?php get_footer(); ?>
