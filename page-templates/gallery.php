@@ -44,19 +44,7 @@ get_header();
 
 <body>
 
-	<div class = "container-fluid" style = "background-color: #6c4f99">
-		<div>
-			<h1 class ="text-left";
-				style = "padding-top: 10px;
-						padding-bottom: 20px;
-						font-size: 50px;
-						font-family: playlistscript;
-						color: white;">
-				Scientista
-			</h1>
-		</div>
-	</div>
-	<div>
+	
 		<center>
 			<h2 style = "font-family: Montserrat;
 						font-size: 40px;"> 
