@@ -5,22 +5,14 @@ the_post();
 get_header();
 get_footer();
 <body>
-<h1> Contact Us </h1>
+<h1> Contact</h1>
 <div class="container">
-  <form action="action_page.php">
-
-    <label for="fname">First Name</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name">
-
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name">
-
-    <label for="Inquiries">Subject</label>
-    <textarea id="Inquries" name="Inquiries" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-
-  </form>
+  <p style = "font-family:georgia,garamond,serif;font-size:16x;">
+    If you have any questions about the club or how you can join. Feel free to contatct on us below
+  </p>
+    <div>
+        <a href="mailto:scientista@clubs.queensu.ca">Email Us</a>
+    </div>
 </div>
 </body>
 ?>
