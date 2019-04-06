@@ -13,7 +13,7 @@ global $template_settings, $post;
 <body <?php body_class(); ?>>
   <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Scientista</a>
+    <a class="navbar-brand" href="#" style="font-family:Playlist Script">Scientista</a>
     <button class="navbar-toggler hamburger hamburger--collapse" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onclick="navToggle()">
       <span class="hamburger-box">
         <span class="hamburger-inner"></span>
@@ -23,24 +23,31 @@ global $template_settings, $post;
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="./about">About</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Extras
+            Events
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">The Team</a>
-            <a class="dropdown-item" href="#">Contact</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Accomplishments</a>
+            <a class="dropdown-item" href="./events">Past Events</a>
+            <a class="dropdown-item" href="https://www.facebook.com/pg/scientistaqueens/events">Upcoming Events</a>
           </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
+          <a class="nav-link" href="./conference">Conference</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./gallery">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="http://www.scientistafoundation.com/toolsresources">Resources</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="./contact">Contact</a>
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
