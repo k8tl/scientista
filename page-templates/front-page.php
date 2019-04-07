@@ -4,6 +4,12 @@ bb_add_body_classes('front-page full-height');
 the_post();
 get_header();
 ?>
+<?php
+global $template_settings, $post;
+bb_add_body_classes('front-page full-height');
+the_post();
+get_header();
+?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -57,7 +63,7 @@ get_header();
           <div class="col-md-4">
             <h2>Gallery</h2>
             <p>Discover our pictures from the Momentum: Discussion Panel Luncheon.</p>
-            <p><a class="btn btn-secondary" href="./gallery role="button">See More &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="./gallery" role="button">See More &raquo;</a></p>
           </div>
           <div class="col-md-4">
             <h2>Contact Us</h2>
@@ -85,5 +91,6 @@ get_header();
     <script src="../../dist/js/bootstrap.min.js"></script>
   </body>
 </html>
+
 
 <?php get_footer(); ?>
