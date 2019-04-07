@@ -33,7 +33,11 @@ function bb_set_page_templates( $page_template ) {
 	if (is_page('page-portfolio'))
 		$new_template = 'page-portfolio.php';
 	if( is_page('conference') )
-		$new_template = 'conference.php';		
+		$new_template = 'conference.php';
+	if( is_page('mission') )
+		$new_template = 'mission.php';	
+	if( is_page('events') )
+		$new_template = 'events.php';	
 	if( is_search() )
 		$new_template = 'page-search-results.php';
 
