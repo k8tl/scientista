@@ -35,6 +35,10 @@ function bb_required_pages() {
 			'title' =>'Events'
 		],
 		[
+			'slug' => 'mission',
+			'title' => 'Mission'
+		],
+		[
 			'slug' => 'conference',
 			'title' => 'Conference'
 		]
