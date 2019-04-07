@@ -16,25 +16,37 @@ get_header();
 
     <!-- Bootstrap core CSS -->
     <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="jumbotron.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   </head>
 
-  <body>
+  <body style="padding-top: 3.5rem;">
 
     <main role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron" style="background-image: url(https://lh3.googleusercontent.com/S-kuv9OwZm23IaFAhfC1ipODG1CqvUtWfix1Yc8mVdDPbNPKoVQECdeAeDuPY6TdlJzDweIBOaJ8w0nXWGSbD6bjrtC8NwAKeCHYsOL-QHLuRj3C5712MyvaTrbmWmm3_qjEg0P8); background-size: cover">
-        <div class="container">
-          <!--<h1 class="display-3" style="font-family: Playlist Script">Queen's University Scientista</h1>
-          <p>Empowering Women in STEMM.</p>-->
-          <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+      <div>
+<img src="https://lh3.googleusercontent.com/S-kuv9OwZm23IaFAhfC1ipODG1CqvUtWfix1Yc8mVdDPbNPKoVQECdeAeDuPY6TdlJzDweIBOaJ8w0nXWGSbD6bjrtC8NwAKeCHYsOL-QHLuRj3C5712MyvaTrbmWmm3_qjEg0P8" class="img-fluid" alt="Queen's U Scientista">
+      </div>
+       
+
+<div class="jumbotron" style="background-color: #6c4f99">
+        <div class="container" style="font-family: Montserrat; color:white;">
+          <h2 class="display-3" style="font-weight: bold;">About Us</h2>
+          <p>Queen's University Scientista is the first Canadian Chapter of the <a href="http://www.scientistafoundation.com/" style="color: #d2d1ff; font-weight: bold;">Scientista Foundation</a> to be found in 2015.</p>
+          <p><a class="btn btn-primary btn-lg" href="./mission" role="button" style="background-color: white; color:#6c4f99">Learn More About Our Mission &raquo;</a></p>
         </div>
       </div>
 
-      <div class="container">
+    <div class="jumbotron" style="background-color: #d2d1ff">
+        <div class="container" style="font-family: Montserrat">
+          <h2 class="display-3" style="font-weight: bold;">Podcast: Women of Scientista</h2>
+          <p>"Women of Scientista" is a social media initiative with the goal of highlighting a women in STEMM on Queen's campus, including professors, researchers and graduate students.</p>
+          <p><a class="btn btn-primary btn-lg" href="https://www.podomatic.com/podcasts/queensscientista" style="background-color:000000" role="button">Listen here! &raquo;</a></p>
+        </div>
+      </div>
+
+
+   <div class="container">
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4">
@@ -75,3 +87,4 @@ get_header();
 </html>
 
 <?php get_footer(); ?>
+
