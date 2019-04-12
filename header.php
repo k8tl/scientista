@@ -26,10 +26,13 @@ global $template_settings, $post;
           <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#about">About</a>
+          <a class="nav-link" href="mission">About</a>
+        </li>
+	<li class="nav-item">
+          <a class="nav-link" href="team">Team</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#events">
+          <a class="nav-link" href="events">
             Past Events
           </a>
 	</li>
