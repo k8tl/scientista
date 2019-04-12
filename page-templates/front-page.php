@@ -20,7 +20,7 @@ get_header();
         font-weight: normal;
         font-style: normal;
       }
-h1{font-family:'playlistscript';}
+h1, h2{font-family:'playlistscript';}
 </style>
   <head>
     <meta charset="utf-8">

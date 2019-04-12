@@ -1,4 +1,9 @@
-
+<?php
+global $template_settings, $post;
+bb_add_body_classes('front-page full-height');
+the_post();
+get_header();
+?>
 <!doctype html>
 <html lang="en">
   <head>
@@ -8,7 +13,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Album example for Bootstrap</title>
+    <title>The Team</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.1/examples/album/">
 
@@ -59,13 +64,9 @@ footer p {
         img {
             object-fit: cover;
         }
-      </style>
-<style>
  @font-face {
         font-family: 'playlistscript';
-        src: url('playlist_script-webfont.woff2') format('woff2'),
-          url('playlist_script-webfont.woff') format('woff'),
-	url('../fonts/Playlist Script.otf') format('opentype');
+        src: url('../fonts/Playlist Script.otf') format('opentype');
         font-weight: normal;
         font-style: normal;
       }
@@ -235,5 +236,6 @@ h2{font-family:'playlistscript';}
     <script src="../../dist/js/bootstrap.min.js"></script>
     <script src="../../assets/js/vendor/holder.min.js"></script>
   </body>
+<?php get_footer(); ?>
 </html>
 
