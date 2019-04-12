@@ -48,7 +48,7 @@ global $template_settings, $post;
           <a class="nav-link" href="http://www.scientistafoundation.com/toolsresources">Resources</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./contact">Contact</a>
+          <a class="nav-link" href="#contact">Contact</a>
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">

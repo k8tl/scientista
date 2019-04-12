@@ -18,7 +18,8 @@ get_header();
     @font-face {
         font-family: 'playlistscript';
         src: url('playlist_script-webfont.woff2') format('woff2'),
-          url('playlist_script-webfont.woff') format('woff');
+          url('playlist_script-webfont.woff') format('woff'),
+	url('../fonts/Playlist Script.otf') format('opentype');
         font-weight: normal;
         font-style: normal;
       }
