@@ -5,7 +5,6 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
 <footer class="footer">
   <div class="container text-center">
-    <p>Contact Us!</p>
     <a href="https://www.facebook.com/pg/scientistaqueens/"><i class="fa fa-facebook"></i></a>
     <a href="https://www.instagram.com/scientista.queensu/"><i class="fab fa-instagram"></i></a>
     <a href="mailto:scientista@clubs.queensu.ca"><i class="far fa-envelope"></i></a>

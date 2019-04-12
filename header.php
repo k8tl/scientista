@@ -25,7 +25,7 @@ global $template_settings, $post;
       </span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" style="font-family: Montserrat">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
           <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
@@ -58,14 +58,14 @@ global $template_settings, $post;
         <li class="nav-item">
           <a class="nav-link" href="contact">Contact</a>
         </li>
-	<li> 
-	<a href="https://www.facebook.com/pg/scientistaqueens/"><i class="fa fa-facebook"></i></a>
+	<li class="nav-item"> 
+	<a class="nav-link" href="https://www.facebook.com/pg/scientistaqueens/"><i class="fa fa-facebook"></i></a>
 	</li>
-	<li>
-	<a href="https://www.instagram.com/scientista.queensu/"><i class="fab fa-instagram"></i></a>
+	<li class="nav-item">
+	<a class="nav-link" href="https://www.instagram.com/scientista.queensu/"><i class="fab fa-instagram"></i></a>
 	</li>
-	<li>
-	  <a href="mailto:scientista@clubs.queensu.ca"><i class="far fa-envelope"></i></a>
+	<li class="nav-item">
+	  <a class="nav-link" href="mailto:scientista@clubs.queensu.ca"><i class="far fa-envelope"></i></a>
 	</li>
 	<li>
 	 <form class="form-inline my-2 my-lg-0" style="align: right">
