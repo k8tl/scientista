@@ -58,6 +58,9 @@ global $template_settings, $post;
         <li class="nav-item">
           <a class="nav-link" href="contact">Contact</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.podomatic.com/podcasts/queensscientista">Podcast</a>
+        </li>
 	<li class="nav-item"> 
 	<a class="nav-link" href="https://www.facebook.com/pg/scientistaqueens/"><i class="fa fa-facebook"></i></a>
 	</li>
@@ -68,7 +71,7 @@ global $template_settings, $post;
 	  <a class="nav-link" href="mailto:scientista@clubs.queensu.ca"><i class="far fa-envelope"></i></a>
 	</li>
 	<li>
-	 <form class="form-inline my-2 my-lg-0" style="align: right">
+	 <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
       </form>
