@@ -26,22 +26,23 @@ global $template_settings, $post;
           <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./about">About</a>
+          <a class="nav-link" href="#about">About</a>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Events
+        <li class="nav-item">
+          <a class="nav-link" href="#events">
+            Past Events
           </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="./events">Past Events</a>
-            <a class="dropdown-item" href="https://www.facebook.com/pg/scientistaqueens/events">Upcoming Events</a>
-          </div>
+	</li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.facebook.com/pg/scientistaqueens/events">
+            Upcoming Events
+          </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./conference">Conference</a>
+          <a class="nav-link" href="#conference">Conference</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./gallery">Gallery</a>
+          <a class="nav-link" href="#gallery">Gallery</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="http://www.scientistafoundation.com/toolsresources">Resources</a>
