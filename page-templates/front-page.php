@@ -48,7 +48,7 @@ h1, h2{font-family:'playlistscript';}
 
 <div class="jumbotron" style="background-color: white">
         <div class="container" style="font-family: Montserrat; color:#6c4f99;">
-          <h2 class="display-3" style="font-weight: bold;">About Us</h2>
+          <h2 class="display-3" style="font-weight: bold; font-family: playlistscript">About Us</h2>
           <p>Queen's University Scientista is the first Canadian Chapter of the <a href="http://www.scientistafoundation.com/" style="color: #d2d1ff; font-weight: bold;">Scientista Foundation</a> to be found in 2015.</p>
           <p><a class="btn btn-primary btn-lg" href="./mission" role="button" style="color: white; background-color:#6c4f99">Learn More About Our Mission &raquo;</a></p>
         </div>
@@ -56,7 +56,7 @@ h1, h2{font-family:'playlistscript';}
 
     <div class="jumbotron" style="background: linear-gradient(#6c4f99, #d2d1ff); color: white">
         <div class="container" style="font-family: Montserrat">
-          <h2 class="display-3" style="font-weight: bold;">Podcast: Women of Scientista</h2>
+          <h2 class="display-3" style="font-weight: bold; font-family: playlistscript;">Podcast: Women of Scientista</h2>
           <p>"Women of Scientista" is a social media initiative with the goal of highlighting a women in STEMM on Queen's campus, including professors, researchers and graduate students.</p>
           <p><a class="btn btn-primary btn-lg" href="https://www.podomatic.com/podcasts/queensscientista" style="background-color:#ffffff; color:#6c4f99" role="button">Listen here! &raquo;</a></p>
         </div>
