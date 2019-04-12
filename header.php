@@ -13,7 +13,7 @@ global $template_settings, $post;
 <body <?php body_class(); ?>>
   <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#" style="font-family:Playlist Script"><img src="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/17553954_1327013367391375_6630613070457911774_n.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=65593539e40f881291acf55315bab5e4&oe=5D30C649" style="max-height: 50px; max-width:50px"'></a>
+    <a class="navbar-brand" href="#" style="font-family:Playlist Script"><img src="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/17553954_1327013367391375_6630613070457911774_n.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=65593539e40f881291acf55315bab5e4&oe=5D30C649" style="max-height: 40px; max-width:40px"'></a>
     <button class="navbar-toggler hamburger hamburger--collapse" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onclick="navToggle()">
       <span class="hamburger-box">
         <span class="hamburger-inner"></span>
@@ -42,19 +42,19 @@ global $template_settings, $post;
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#conference">Conference</a>
+          <a class="nav-link" href="conference">Conference</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#gallery">Gallery</a>
+          <a class="nav-link" href="gallery">Gallery</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="http://www.scientistafoundation.com/toolsresources">Resources</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
+          <a class="nav-link" href="contact">Contact</a>
         </li>
       </ul>
-      <form class="form-inline my-2 my-lg-0">
+      <form class="form-inline my-2 my-lg-0" style="align: right">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
       </form>

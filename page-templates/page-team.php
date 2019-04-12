@@ -80,10 +80,8 @@ h2{font-family:'playlistscript';}
 
       <section class="jumbotron text-center" style="background: linear-gradient(#6c4f99, #d2d1ff);">
         <div class="container" style="color: white; font-family: Montserrat">
-          <h1 class="jumbotron-heading" style="font-family: Playlist Script"><strong>The Team</strong></h1>
+          <h1 class="jumbotron-heading" style="font-family: playlistscript"><strong>The Team</strong></h1>
           <p>Meet our exec team!</p>
-          <p>
-          </p>
         </div>
       </section>
 
@@ -217,15 +215,6 @@ h2{font-family:'playlistscript';}
 
     </main>
 
-    <footer class="text-muted">
-      <div class="container">
-        <p class="float-right">
-          <a href="#">Back to top</a>
-        </p>
-        <p>Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-        <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
-      </div>
-    </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
