@@ -42,7 +42,7 @@ h1, h2{font-family:'playlistscript';}
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div>
-<img src="../media/banner.png" class="img-fluid" alt="Queen's U Scientista" style="width: 100%">
+<img src="https://github.com/k8tl/scientista/blob/master/media/banner.png?raw=true" class="img-fluid" alt="Queen's U Scientista" style="width: 100%">
       </div>
        
 
