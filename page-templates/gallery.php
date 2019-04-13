@@ -35,7 +35,7 @@ get_header();
     		font-style: normal;
     	}
 		body {background-color: #d2d1ff;
-				font-family: 'playlistscript';}
+				font-family: Playlist;}
 
 
 	</style>
@@ -70,19 +70,6 @@ get_header();
 		<!-------------------------------------------ROW 1-------------------------------------------------------->
 		<div class="row" style="padding-bottom: 5px">
           <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/28061479_1648982438527798_8751024546835703419_o.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=5339224212a331589f08580620a5de4a&oe=5C8C1FB9">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/28061479_1648982438527798_8751024546835703419_o.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=5339224212a331589f08580620a5de4a&oe=5C8C1FB9');">
-          		</div>
-          	</a>
-
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27912807_1648982918527750_7899480001926372287_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-1.fna&oh=c3a911cc9eb5110b8da8b9d2565543a0&oe=5C951F1A">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27912807_1648982918527750_7899480001926372287_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-1.fna&oh=c3a911cc9eb5110b8da8b9d2565543a0&oe=5C951F1A');">
-          		</div>
-          	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
           	<a href="https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/27752129_1648983938527648_6602358584393645581_n.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-2.fna&oh=c5dd1515515369d1033a71df990b5d03&oe=5CCA47E0">
           		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/27752129_1648983938527648_6602358584393645581_n.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-2.fna&oh=c5dd1515515369d1033a71df990b5d03&oe=5CCA47E0');">
           		</div>
@@ -94,22 +81,7 @@ get_header();
           		</div>
           	</a>
           </div>
-        </div>
-        <!----------------------------------------------ROW 2------------------------------------------------------------->
-        <div class="row" style="padding-bottom: 5px">
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/28061249_1648983685194340_7571390866537846663_o.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-2.fna&oh=b2c70c231d97f86e03a42721e5ad651f&oe=5C8F9F90">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/28061249_1648983685194340_7571390866537846663_o.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-2.fna&oh=b2c70c231d97f86e03a42721e5ad651f&oe=5C8F9F90');">
-          		</div>
-          	</a>
 
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/28060894_1648983438527698_1528323146229820418_o.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=9791482519aad83162626f8713469673&oe=5C90CCA6">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/28060894_1648983438527698_1528323146229820418_o.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=9791482519aad83162626f8713469673&oe=5C90CCA6');">
-          		</div>
-          	</a>
-          </div>
           <div class="col-xs-6 col-md-3">
           	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/28061359_1648982605194448_1275061732931535504_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=c5ab4e1e6d5e97b70e80e432d26b8160&oe=5CD1C2AF">
           		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/28061359_1648982605194448_1275061732931535504_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=c5ab4e1e6d5e97b70e80e432d26b8160&oe=5CD1C2AF');">
@@ -123,7 +95,7 @@ get_header();
           	</a>
           </div>
         </div>
-        <!----------------------------------------------ROW 3-------------------------------------------------------------->
+        <!----------------------------------------------ROW 2-------------------------------------------------------------->
         <div class="row" style="padding-bottom: 5px">
           <div class="col-xs-6 col-md-3">
           	<a href ="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27907882_1648983725194336_7810823191349925490_o.jpg?_nc_cat=106&_nc_ht=scontent.fybz2-2.fna&oh=1e96c1e6345be678d0e33bc9031de83e&oe=5CD10120">
@@ -139,19 +111,19 @@ get_header();
           	</a>
           </div>
           <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27982608_1648983441861031_5655726819628046097_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=78d3a0325d57de0042f202057fdb45ec&oe=5C93B073">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27982608_1648983441861031_5655726819628046097_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=78d3a0325d57de0042f202057fdb45ec&oe=5C93B073');">
+          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27908070_1648982431861132_2619652759643454580_o.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=537a560298a880eb8c531e2a41990aa7&oe=5CC134E5">
+          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27908070_1648982431861132_2619652759643454580_o.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=537a560298a880eb8c531e2a41990aa7&oe=5CC134E5');">
           		</div>
           	</a>
           </div>
           <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27993405_1648983498527692_18865237705655592_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-1.fna&oh=5e3b1507c4884409bdbd116333c0cb86&oe=5C93642B">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27993405_1648983498527692_18865237705655592_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-1.fna&oh=5e3b1507c4884409bdbd116333c0cb86&oe=5C93642B');">
+          	<a href="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27907914_1648983525194356_1023782114675733706_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=a583a3001f9617d32879628d61c10519&oe=5CC2D8C8">
+          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27907914_1648983525194356_1023782114675733706_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=a583a3001f9617d32879628d61c10519&oe=5CC2D8C8');">
           		</div>
           	</a>
           </div>
         </div>
-        <!-----------------------------------------------ROW 4---------------------------------------------------------->
+        <!-----------------------------------------------ROW 3---------------------------------------------------------->
         <div class="row" style="padding-bottom: 5px">
           <div class="col-xs-6 col-md-3">
           	<a href ="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27788774_1648982511861124_8266213443260801015_o.jpg?_nc_cat=105&_nc_ht=scontent.fybz2-2.fna&oh=a24a30e43b732feb54eefbdbc025000b&oe=5CD88A54">
@@ -181,9 +153,9 @@ get_header();
         </div>
         <!-----------------------------------------------ROW 5---------------------------------------------------------->
         <div class="row" style="padding-bottom: 5px">
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27788794_1648983855194323_6067757628288249713_o.jpg?_nc_cat=110&_nc_ht=scontent.fybz2-1.fna&oh=5ae1c8f7c1a7a3197c0831985705b6bd&oe=5C9403EF">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27788794_1648983855194323_6067757628288249713_o.jpg?_nc_cat=110&_nc_ht=scontent.fybz2-1.fna&oh=5ae1c8f7c1a7a3197c0831985705b6bd&oe=5C9403EF');">
+              <div class="col-xs-6 col-md-3">
+          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27750136_1648983621861013_941943029266173644_n.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=9749ab5eee992d8d1c4396eeef8ae3ba&oe=5CCA87C0">
+          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27750136_1648983621861013_941943029266173644_n.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=9749ab5eee992d8d1c4396eeef8ae3ba&oe=5CCA87C0');">
           		</div>
           	</a>
 
@@ -207,34 +179,7 @@ get_header();
           	</a>
           </div>
         </div>
-        <!-----------------------------------------------ROW 6---------------------------------------------------------->
-        <div class="row" style="padding-bottom: 5px">
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27750136_1648983621861013_941943029266173644_n.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=9749ab5eee992d8d1c4396eeef8ae3ba&oe=5CCA87C0">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27750136_1648983621861013_941943029266173644_n.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=9749ab5eee992d8d1c4396eeef8ae3ba&oe=5CCA87C0');">
-          		</div>
-          	</a>
 
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27788721_1648983128527729_3743401484173275160_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=28d63ea4793e6efe04e3ff1033cfd8a3&oe=5C9015B5">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27788721_1648983128527729_3743401484173275160_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=28d63ea4793e6efe04e3ff1033cfd8a3&oe=5C9015B5');">
-          		</div>
-          	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27913105_1648983521861023_3729059946334261194_o.jpg?_nc_cat=106&_nc_ht=scontent.fybz2-2.fna&oh=935ac318b511d87f7f96b6a20914a67d&oe=5C952909">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27913105_1648983521861023_3729059946334261194_o.jpg?_nc_cat=106&_nc_ht=scontent.fybz2-2.fna&oh=935ac318b511d87f7f96b6a20914a67d&oe=5C952909');">
-          		</div>
-          	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27748173_1648982328527809_3666178318856587064_o.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-1.fna&oh=9cfae88e1bb0bd9ae5548b17ae814ac7&oe=5C9189B4">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27748173_1648982328527809_3666178318856587064_o.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-1.fna&oh=9cfae88e1bb0bd9ae5548b17ae814ac7&oe=5C9189B4');">
-          		</div>
-          	</a>
-          </div>
-        </div>
         <!-----------------------------------------------ROW 7---------------------------------------------------------->
         <div class="row" style="padding-bottom: 5px">
           <div class="col-xs-6 col-md-3">
@@ -251,54 +196,20 @@ get_header();
           	</a>
           </div>
           <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27908425_1648982331861142_9214539246268534559_o.jpg?_nc_cat=110&_nc_ht=scontent.fybz2-1.fna&oh=5b5a1d79e1e9a87c58451956c2976844&oe=5C94A7E9">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27908425_1648982331861142_9214539246268534559_o.jpg?_nc_cat=110&_nc_ht=scontent.fybz2-1.fna&oh=5b5a1d79e1e9a87c58451956c2976844&oe=5C94A7E9');">
+          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27658120_1648983951860980_7787451688985998105_n.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=8b61f3c3ea55db4287f9cea6348e4aa4&oe=5CD2A4AE">
+          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27658120_1648983951860980_7787451688985998105_n.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=8b61f3c3ea55db4287f9cea6348e4aa4&oe=5CD2A4AE');">
           		</div>
           	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
+        </div>
+       
+        <!-----------------------------------------------ROW 9---------------------------------------------------------->
+        <div class="row" style="padding-bottom: 5px">
+
+              <div class="col-xs-6 col-md-3">
           	<a href="https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/27858415_1648982335194475_3856806265568984383_n.jpg?_nc_cat=104&_nc_ht=scontent.fybz2-2.fna&oh=0ab8121f6b8d8a68716e2e5abda833b1&oe=5CC12297">
           		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/27858415_1648982335194475_3856806265568984383_n.jpg?_nc_cat=104&_nc_ht=scontent.fybz2-2.fna&oh=0ab8121f6b8d8a68716e2e5abda833b1&oe=5CC12297');">
           		</div>
           	</a>
-          </div>
-        </div>
-        <!-----------------------------------------------ROW 8---------------------------------------------------------->
-        <div class="row" style="padding-bottom: 5px">
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27913310_1648982435194465_3764897105934013228_o.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-1.fna&oh=72faaa727f7c549b8f18e6f7b28de419&oe=5C8E479C">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27913310_1648982435194465_3764897105934013228_o.jpg?_nc_cat=109&_nc_ht=scontent.fybz2-1.fna&oh=72faaa727f7c549b8f18e6f7b28de419&oe=5C8E479C');">
-          		</div>
-          	</a>
-
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27993250_1648983125194396_7705600165126964589_o.jpg?_nc_cat=105&_nc_ht=scontent.fybz2-2.fna&oh=bdc06dc3a0f4c1f221ed3fa8fe9e0cf1&oe=5CC8D073">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27993250_1648983125194396_7705600165126964589_o.jpg?_nc_cat=105&_nc_ht=scontent.fybz2-2.fna&oh=bdc06dc3a0f4c1f221ed3fa8fe9e0cf1&oe=5CC8D073');">
-          		</div>
-          	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27908070_1648982431861132_2619652759643454580_o.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=537a560298a880eb8c531e2a41990aa7&oe=5CC134E5">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27908070_1648982431861132_2619652759643454580_o.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=537a560298a880eb8c531e2a41990aa7&oe=5CC134E5');">
-          		</div>
-          	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27907914_1648983525194356_1023782114675733706_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=a583a3001f9617d32879628d61c10519&oe=5CC2D8C8">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27907914_1648983525194356_1023782114675733706_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=a583a3001f9617d32879628d61c10519&oe=5CC2D8C8');">
-          		</div>
-          	</a>
-          </div>
-        </div>
-        <!-----------------------------------------------ROW 9---------------------------------------------------------->
-        <div class="row" style="padding-bottom: 5px">
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/27657655_1648983131861062_6770826080739427426_n.jpg?_nc_cat=103&_nc_ht=scontent.fybz2-2.fna&oh=6fee3bd84f0b30b7f5485a0da6c8b336&oe=5C8BF1A3">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t1.0-9/27657655_1648983131861062_6770826080739427426_n.jpg?_nc_cat=103&_nc_ht=scontent.fybz2-2.fna&oh=6fee3bd84f0b30b7f5485a0da6c8b336&oe=5C8BF1A3');">
-          		</div>
-          	</a>
-
           </div>
           <div class="col-xs-6 col-md-3">
           	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27858777_1648983625194346_4070902973092494640_n.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=43f6e73bc99fa0697ab18d81e8e6453f&oe=5CD9537E">
@@ -318,6 +229,12 @@ get_header();
           		</div>
           	</a>
           </div>
+            <div class="col-xs-6 col-md-3">
+          	<a href="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27788498_1648983308527711_6378957767715941156_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=1929b07ebdfd9df48b291a92b52e2cc0&oe=5CC8CAAA">
+          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27788498_1648983308527711_6378957767715941156_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=1929b07ebdfd9df48b291a92b52e2cc0&oe=5CC8CAAA');">
+          		</div>
+          	</a>
+          </div>
         </div>
         <!-----------------------------------------------ROW 10---------------------------------------------------------->
         <div class="row" style="padding-bottom: 5px">
@@ -328,9 +245,9 @@ get_header();
           	</a>
 
           </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27982758_1648982788527763_5248771381346354723_o.jpg?_nc_cat=103&_nc_ht=scontent.fybz2-2.fna&oh=428e87e42da2e275b31efc5e0393e763&oe=5C8F2CC9">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27982758_1648982788527763_5248771381346354723_o.jpg?_nc_cat=103&_nc_ht=scontent.fybz2-2.fna&oh=428e87e42da2e275b31efc5e0393e763&oe=5C8F2CC9');">
+                  <div class="col-xs-6 col-md-3">
+          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27797466_1648982808527761_6557270372132707840_o.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=26a582ef4650452cead973eb1eaab1d8&oe=5CC8897B">
+          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27797466_1648982808527761_6557270372132707840_o.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=26a582ef4650452cead973eb1eaab1d8&oe=5CC8897B');">
           		</div>
           	</a>
           </div>
@@ -347,34 +264,7 @@ get_header();
           	</a>
           </div>
         </div>
-        <!-----------------------------------------------ROW 11---------------------------------------------------------->
-        <div class="row" style="padding-bottom: 5px">
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27797414_1648982801861095_548892018136263827_o.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=498bc42bfa730ee7901c20edd7fc0bae&oe=5C8F51A6">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27797414_1648982801861095_548892018136263827_o.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=498bc42bfa730ee7901c20edd7fc0bae&oe=5C8F51A6');">
-          		</div>
-          	</a>
-
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27797466_1648982808527761_6557270372132707840_o.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=26a582ef4650452cead973eb1eaab1d8&oe=5CC8897B">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27797466_1648982808527761_6557270372132707840_o.jpg?_nc_cat=100&_nc_ht=scontent.fybz2-1.fna&oh=26a582ef4650452cead973eb1eaab1d8&oe=5CC8897B');">
-          		</div>
-          	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27993133_1648983225194386_8426185456147601862_o.jpg?_nc_cat=110&_nc_ht=scontent.fybz2-1.fna&oh=c374f06b24a95d60680a0e5c00cf6397&oe=5C8F93CB">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27993133_1648983225194386_8426185456147601862_o.jpg?_nc_cat=110&_nc_ht=scontent.fybz2-1.fna&oh=c374f06b24a95d60680a0e5c00cf6397&oe=5C8F93CB');">
-          		</div>
-          	</a>
-          </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27798280_1648983301861045_1499027078076130381_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=6c73815524cac7be863e1aae66b8a62e&oe=5C93FE86">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t31.0-8/27798280_1648983301861045_1499027078076130381_o.jpg?_nc_cat=108&_nc_ht=scontent.fybz2-1.fna&oh=6c73815524cac7be863e1aae66b8a62e&oe=5C93FE86');">
-          		</div>
-          	</a>
-          </div>
-        </div>
+      
         <!-----------------------------------------------ROW 12---------------------------------------------------------->
         <div class="row" style="padding-bottom: 5px">
           <div class="col-xs-6 col-md-3">
@@ -424,22 +314,8 @@ get_header();
           		</div>
           	</a>
           </div>
-          <div class="col-xs-6 col-md-3">
-          	<a href="https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27788498_1648983308527711_6378957767715941156_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=1929b07ebdfd9df48b291a92b52e2cc0&oe=5CC8CAAA">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-2.fna.fbcdn.net/v/t31.0-8/27788498_1648983308527711_6378957767715941156_o.jpg?_nc_cat=107&_nc_ht=scontent.fybz2-2.fna&oh=1929b07ebdfd9df48b291a92b52e2cc0&oe=5CC8CAAA');">
-          		</div>
-          	</a>
-          </div>
+          
         </div>
-        <!-----------------------------------------------ROW 14---------------------------------------------------------->
-        <div class="row" style="padding-bottom: 5px">
-          <div class="col-xs-6 col-md-3">
-          	<a href ="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27658120_1648983951860980_7787451688985998105_n.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=8b61f3c3ea55db4287f9cea6348e4aa4&oe=5CD2A4AE">
-          		<div class="img" style="background-image:url('https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/27658120_1648983951860980_7787451688985998105_n.jpg?_nc_cat=101&_nc_ht=scontent.fybz2-1.fna&oh=8b61f3c3ea55db4287f9cea6348e4aa4&oe=5CD2A4AE');">
-          		</div>
-          	</a>
-
-	</div>
 
 </body>
 

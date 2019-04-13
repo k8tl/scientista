@@ -64,13 +64,9 @@ footer p {
         img {
             object-fit: cover;
         }
- @font-face {
-        font-family: 'playlistscript';
-        src: url('../fonts/Playlist Script.otf') format('opentype');
-        font-weight: normal;
-        font-style: normal;
-      }
-h2{font-family:'playlistscript';}
+h2 { 
+	font-family: Playlist;
+}
 </style>
   </head>
 

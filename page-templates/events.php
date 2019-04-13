@@ -10,15 +10,10 @@ get_header();
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 <style>
- @font-face {
-        font-family: 'playlistscript';
-        src: url('playlist_script-webfont.woff2') format('woff2'),
-          url('playlist_script-webfont.woff') format('woff'),
-	url('../fonts/Playlist Script.otf') format('opentype');
-        font-weight: normal;
-        font-style: normal;
-      }
-h1, h2{font-family: playlistscript;}
+
+h1, h2, h3 {
+font-family: Playlist;
+}
 </style>
 <section class="first-section">
   <div class="container" style="font-family: Montserrat">
