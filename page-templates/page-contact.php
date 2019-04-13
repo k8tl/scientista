@@ -5,13 +5,13 @@ the_post();
 get_header();
 ?>
 <body>
-<h1> Contact</h1>
+<h1 style="font-family: Playlist"> Contact</h1>
 <div class="container">
-  <p style = "font-family:georgia,garamond,serif;font-size:16x;">
+  <p style="font-family: Montserrat;">
     If you have any questions about the club or how you can join, feel free to contact us below!
   </p>
     <div>
-        <a href="mailto:scientista@clubs.queensu.ca">Email Us</a>
+        <p><a class="btn btn-secondary" href="mailto:scientista@clubs.queensu.ca" role="button">Email Us &raquo;</a></p>
     </div>
 </div>
 </body>

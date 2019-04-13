@@ -67,6 +67,9 @@ footer p {
 h2 { 
 	font-family: Playlist;
 }
+p {
+	font-family: Montserrat;
+}
 </style>
   </head>
 
@@ -76,12 +79,11 @@ h2 {
 
       <section class="jumbotron text-center" style="background: linear-gradient(#6c4f99, #d2d1ff);">
         <div class="container" style="color: white; font-family: Montserrat">
-          <h1 class="jumbotron-heading" style="font-family: playlistscript"><strong>The Team</strong></h1>
-          <p>Meet our exec team!</p>
+          <h1 class="jumbotron-heading" style="font-family: Playlist">Meet The Team</h1>
         </div>
       </section>
 
-      <div class="album py-5 bg-light" style="font-family: Montserrat">
+      <div class="album py-5 bg-light">
         <div class="container">
 
           <div class="row">

@@ -19,7 +19,7 @@ font-family: Playlist;
   <div class="container" style="font-family: Montserrat">
     <div class="row">
       <div class="col-lg-12">
-        <h2 style="font-family: playlistscript">Past Events</h2>
+        <h2 style="font-family: Playlist">Past Events</h2>
         <div>
         <h3>Scientista Presents: Being a Woman in STEMM Today</h3>
         <p>Queen’s Scientista hosted their first speaker event of the 2018-2019 school year, centred around the topic of “What is it like being a woman in STEMM today?”

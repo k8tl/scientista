@@ -15,14 +15,6 @@ get_header();
 	<link rel="stylesheet" href="Styles.css">
   <title> Scientista's Mission </title>
   <style>
-    @font-face {
-        font-family: 'playlistscript';
-        src: url('playlist_script-webfont.woff2') format('woff2'),
-          url('playlist_script-webfont.woff') format('woff'),
-	url('../fonts/Playlist Script.otf') format('opentype');
-        font-weight: normal;
-        font-style: normal;
-      }
       /* montserrat-regular - latin */
 @font-face {
   font-family: 'Montserrat';
@@ -32,17 +24,17 @@ get_header();
     font-weight: normal;
 }
     body {background-color: #d2d1ff;
-        font-family: 'playlistscript';}
+        font-family: Playlist;}
   </style>
 </head>
 
 <body>
   <div class = "container-fluid" style = "background-color: #6c4f99">
-    <h1 align = "left";
-    style = "padding-top: 15px;
+    <h1 style="align = left;
+padding-top: 15px;
         padding-bottom: 15px;
         padding-left: 20px
-        font-family: playlistscript;
+        font-family: Playlist;
         color: white">
       Scientista
     </h1>
