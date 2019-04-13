@@ -6082,7 +6082,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 @font-face {
   font-family: 'Playlist';
-  src: url("fonts/Playlist Script.otf") format("opentype");
+  src: url("./fonts/Playlist Script.otf") format("opentype");
   font-weight: normal;
   font-style: normal; }
 

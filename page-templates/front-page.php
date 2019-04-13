@@ -14,9 +14,7 @@ get_header();
 <style>
  @font-face {
         font-family: 'Playlist';
-        src: url('playlist_script-webfont.woff2') format('woff2'),
-          url('playlist_script-webfont.woff') format('woff'),
-	url('../../fonts/Playlist Script.otf') format('opentype');
+        src: url('../../styles/fonts/Playlist Script.otf') format('opentype');
         font-weight: normal;
         font-style: normal;
       }
