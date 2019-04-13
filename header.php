@@ -15,7 +15,7 @@ global $template_settings, $post;
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" integrity="sha384-3AB7yXWz4OeoZcPbieVW64vVXEwADiYyAEhwilzWsLw+9FgqpyjjStpPnpBO8o8S" crossorigin="anonymous">
 <?php wp_head(); ?>
 </head>
-<body <?php body_class(); ?>>
+<body>
   <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#" style="font-family:Playlist Script"><img src="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/17553954_1327013367391375_6630613070457911774_n.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=65593539e40f881291acf55315bab5e4&oe=5D30C649" style="max-height: 40px; max-width:40px"'></a>
