@@ -13,10 +13,10 @@ get_header();
 <html lang="en">
 <style>
  @font-face {
-        font-family: 'playlistscript';
+        font-family: 'Playlist';
         src: url('playlist_script-webfont.woff2') format('woff2'),
           url('playlist_script-webfont.woff') format('woff'),
-	url('../fonts/Playlist Script.otf') format('opentype');
+	url('../../fonts/Playlist Script.otf') format('opentype');
         font-weight: normal;
         font-style: normal;
       }
@@ -50,7 +50,7 @@ h1, h2{font-family:'Playlist';}
         <div class="container" style="font-family: Montserrat; color:#6c4f99;">
           <h2 class="display-3" style="font-weight: bold; font-family: playlistscript">About Us</h2>
           <p>Queen's University Scientista is the first Canadian Chapter of the <a href="http://www.scientistafoundation.com/" style="color: #d2d1ff; font-weight: bold;">Scientista Foundation</a> to be found in 2015.</p>
-          <p><a class="btn btn-primary btn-lg" href="./mission" role="button" style="color: white; background-color:#6c4f99">Learn More About Our Mission &raquo;</a></p>
+          <p><a class="btn btn-primary btn-lg" href="http://quscientista.gloverandboos.com/?page_id=13" role="button" style="color: white; background-color:#6c4f99">Learn More About Our Mission &raquo;</a></p>
         </div>
       </div>
 
@@ -69,17 +69,17 @@ h1, h2{font-family:'Playlist';}
           <div class="col-md-4">
             <h2>The Team</h2>
             <p>Meet our Exec</p>
-            <p><a class="btn btn-secondary" href="./team" role="button">Learn More &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="http://quscientista.gloverandboos.com/?page_id=8" role="button">Learn More &raquo;</a></p>
           </div>
           <div class="col-md-4">
             <h2>Gallery</h2>
             <p>Discover our pictures from the Momentum: Discussion Panel Luncheon.</p>
-            <p><a class="btn btn-secondary" href="./gallery" role="button">See More &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="http://quscientista.gloverandboos.com/?page_id=11" role="button">See More &raquo;</a></p>
           </div>
           <div class="col-md-4">
             <h2>Contact Us</h2>
             <p>Contact us with any questions!</p>
-            <p><a class="btn btn-secondary" href="./contact" role="button">Contact &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="mailto:scientista@clubs.queensu.ca" role="button">Contact &raquo;</a></p>
           </div>
         </div>
 

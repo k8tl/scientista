@@ -31,13 +31,13 @@ global $template_settings, $post;
           <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="mission">About</a>
+          <a class="nav-link" href="http://quscientista.gloverandboos.com/?page_id=13">About</a>
         </li>
 	<li class="nav-item">
-          <a class="nav-link" href="team">Team</a>
+          <a class="nav-link" href="http://quscientista.gloverandboos.com/?page_id=8">Team</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="events">
+          <a class="nav-link" href="http://quscientista.gloverandboos.com/?page_id=12">
             Past Events
           </a>
 	</li>
@@ -47,16 +47,19 @@ global $template_settings, $post;
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="conference">Conference</a>
+          <a class="nav-link" href="http://quscientista.gloverandboos.com/?page_id=14">Conference</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="gallery">Gallery</a>
+          <a class="nav-link" href="http://quscientista.gloverandboos.com/?page_id=11">Gallery</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="http://www.scientistafoundation.com/toolsresources">Resources</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://www.podomatic.com/podcasts/queensscientista">Podcast</a>
+        </li>
+	<li class="nav-item">
+          <a class="nav-link" href="http://quscientista.gloverandboos.com/?page_id=10">Contact</a>
         </li>
 	<li class="nav-item"> 
 	<a class="nav-link" href="https://www.facebook.com/pg/scientistaqueens/"><i class="fa fa-facebook"></i></a>
