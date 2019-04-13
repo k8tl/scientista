@@ -3,7 +3,7 @@ global $template_settings, $post;
 bb_add_body_classes('Contact');
 the_post();
 get_header();
-get_footer();
+?>
 <body>
 <h1> Contact</h1>
 <div class="container">
@@ -15,4 +15,4 @@ get_footer();
     </div>
 </div>
 </body>
-?>
+<?php get_footer();?>
