@@ -18,7 +18,7 @@ global $template_settings, $post;
 <body style="padding-top: 0px">
   <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#" style="font-family:Playlist"><img src="https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/17553954_1327013367391375_6630613070457911774_n.jpg?_nc_cat=111&_nc_ht=scontent.fybz2-1.fna&oh=65593539e40f881291acf55315bab5e4&oe=5D30C649" style="max-height: 40px; max-width:40px"'></a>
+    <a class="navbar-brand" href="#" style="font-family:Playlist"><img src="https://raw.githubusercontent.com/k8tl/scientista/master/media/OfficialScientistaLogo.png" style="max-height: 40px; max-width:40px"'></a>
     <button class="navbar-toggler hamburger hamburger--collapse" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onclick="navToggle()">
       <span class="hamburger-box">
         <span class="hamburger-inner"></span>
